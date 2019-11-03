@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: com.yyc.tran
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 我
+Implementation-Vendor-Id: com.yyc
+Build-Jdk: 1.8.0_102
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/com.yyc.tran
+Created-By: Maven Integration for Eclipse
+
